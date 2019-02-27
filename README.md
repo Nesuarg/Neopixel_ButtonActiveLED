@@ -18,5 +18,5 @@ but device that can run ARDUINO and NEOPIXEL can be used.
 
 ### Guide
 
-[NERF TARGET](https://i.imgur.com/vYY3kz6.mp4)
+![NERF TARGET](https://i.imgur.com/vYY3kz6.mp4)
 to_do
