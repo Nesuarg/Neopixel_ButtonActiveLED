@@ -18,5 +18,8 @@ but device that can run ARDUINO and NEOPIXEL can be used.
 
 ### Guide
 
+#### Finish project
 ![NERF TARGET](https://media.giphy.com/media/wKAdsaOZwRIkbBNq6x/giphy.gif)
-to_do
+
+#### Schematic
+![NERF TARGET](https://github.com/Nesuarg/Neopixel_ButtonActiveLED/blob/master/assets/schematic.PNG)
